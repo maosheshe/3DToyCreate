@@ -1,0 +1,5 @@
+{
+  "name": "Snake Toy Creator",
+  "description": "Transform images of snakes into adorable 3D plushie toys using Gemini AI.",
+  "requestFramePermissions": []
+}
